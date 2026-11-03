@@ -111,6 +111,7 @@ Most of this work lives in private repositories, and client names are left out o
 
 ## Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiarabaruae&background=F6F0EA&ring=933B5B&fire=BA7878&currStreakNum=4E0A0B&sideNums=4E0A0B&currStreakLabel=933B5B&sideLabels=6B3E3F&dates=6B3E3F&stroke=DCCDC6&border=DCCDC6&border_radius=28&disable_animations=true" alt="Contribution streak of chiarabaruae"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/calendar-dark.svg">
+  <img src="assets/calendar-light.svg" alt="Contribution calendar for the last year" width="100%"/>
+</picture>

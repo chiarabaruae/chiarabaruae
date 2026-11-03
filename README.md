@@ -3,6 +3,8 @@
   <img src="assets/banner-light.svg" alt="Chiara Barúa, Data Analyst · BI & Automation" width="100%"/>
 </picture>
 
+<img align="right" src="assets/gato-programando.png" width="190" alt="A cat typing on a laptop"/>
+
 I help companies understand their processes, organize their data and turn scattered information into decisions, dashboards and solutions they can act on.
 
 - **Currently:** working independently on data, BI and automation projects, remotely from Paraguay
